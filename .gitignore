@@ -1,0 +1,23 @@
+**/node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env
+.env.*
+*.env
+*.env.*
+
+# Next
+.next/
+out/
+
+# Hardhat
+artifacts/
+cache/
+
+# Mac
+.DS_Store
